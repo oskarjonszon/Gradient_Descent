@@ -1,2 +1,2 @@
-# Gradient_Descent
- Linear Regression, Logistic Regression, Perceptron.
+# Linear Regression, Logistic Regression, Perceptron using Gradient Descent. 
+ 
